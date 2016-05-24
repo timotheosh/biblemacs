@@ -1,2 +1,2 @@
-# youmacs
-Emacs minor-mode for using YouVersion (https://www.youversion.com/)
+# Biblemacs
+Emacs minor-mode for retreiving Scripture references, commentaries and original languages, using REST API calls to various web sites that provide such services.
