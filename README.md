@@ -3,3 +3,4 @@ Emacs minor-mode for retreiving Scripture references, commentaries and original 
 
 ## Services to potentially utilize in the future
 - https://getbible.net/api
+- https://bibles.org/pages/api
